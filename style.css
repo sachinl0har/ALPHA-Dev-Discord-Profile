@@ -3152,3 +3152,17 @@ body {
       body.swal2-toast-column .swal2-toast .swal2-validation-message {
         font-size: 1em;
       }
+
+      .footer{
+        color:#fff;
+        align-items: center;
+        align-content: center;
+        text-align: center;
+      }
+      .footer a{
+        color:rgb(255, 0, 0);
+      }
+      .footer a:hover{
+        color:rgb(255, 255, 255);
+        text-decoration: none;
+      }
